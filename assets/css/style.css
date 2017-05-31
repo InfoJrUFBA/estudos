@@ -1,0 +1,26 @@
+body {
+    background-color: #fff;
+}
+
+.fa-server, .fa-book, .fa-graduation-cap {
+    font-size: 20em;
+}
+
+a {
+    color: inherit;
+    font-weight: bold;
+}
+
+img {
+    vertical-align: middle;
+    height: 100%;;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.pink {
+    background-color: #e91e63;
+    color: #fff;
+}
